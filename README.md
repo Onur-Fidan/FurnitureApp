@@ -1,6 +1,6 @@
 # FurnitureApp
 
-Furniture shopping app built using SwiftUI
+ # Furniture shopping app built using SwiftUI
 
 <img width="408" alt="1" src="https://github.com/Onur-Fidan/FurnitureApp/assets/97627723/86154d61-02af-4bd5-bee6-98fe324fe6ab">
 
